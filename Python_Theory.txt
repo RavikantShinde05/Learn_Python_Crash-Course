@@ -1,0 +1,30 @@
+Python is a widely used high level language with huge community support 
+and large Ecosystem and cross platform compatible and also has various applicaions 
+in the field of :
+Data Science, Data Analysis, Data Visualization, AI/ML, 
+Automations, web Apps, Testing, Hacking, etc.
+
+where as python uses interpreter to understand and 
+execute the code line by line.
+
+We will be learning python version 3:
+
+i am using VsCode for python as per my convinience with the plugin or extension of "python" 
+it will provide me features like: Autocompletion,
+Debugging, Code snippets, and code formatting and Linting.
+
+Python Peps: it stands for python enhancement proposals.
+this helps you to format your code automatically.
+After installation create a file name "Hellow_World.py"
+use Autopep8 for formatting support for python in Vscode extensions
+
+the python comes with an interpreter which is a program which understand 
+the python high-level code into machine code as explain below:
+
+from python code => Cpython interpreter => PythonByte code => python virtual machine (PVM) => machine code. 
+
+this Cpython is a program created in "C" which understand python code, it is created/ emplementation of python in "C".
+Similarly for Jython, ironPython, and pypy => java+python, c#+Python and Python+subset of Python respectively.
+
+i.e the python program is converted in to java bytecode so that we can run it using java code
+so that we can run java code using python when using Jython. 
