@@ -28,3 +28,10 @@
 "student" != "10"  # True
 "school" != "student"  # True
 "school" == "student"  # False
+"BAG" == "bag"  # False
+"Student" == "student"  # False
+
+
+# ord"b" = 98
+# ord"B" = 66
+# that's why they cant be equal
