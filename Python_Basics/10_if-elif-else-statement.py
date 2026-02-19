@@ -1,3 +1,4 @@
+# CONDITION AND STATEMENTS:
 
 # the indentation should be carefully handled
 students = 35
@@ -30,3 +31,4 @@ else:
     # This is the way of writting "Ternary Operator"
 message = "Eligible" if age >= 21 else "Not Eligible"
 print(message)
+
