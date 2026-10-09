@@ -1,3 +1,4 @@
+# CLASS VS OBJECTS:
 # WHAT IS CLASS?
 # => Class is Blueprint of an object, this means it defines an object can have, what kind of behaviour or Data. This is the consistantly used defination for class,
 #    class for example: Painting of a car on a paper, its just a painting you can see it but
