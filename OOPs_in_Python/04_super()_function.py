@@ -3,6 +3,11 @@
 # Python's "Method Resolution Order"(MRO). it is commonly used in the child class's
 # __init__() method to initialize attributes.
 
+# Explanation:
+
+# - super() function is used inside __init__() method of Dog to call the constructor of Animal and initialize inherited attribute (name).
+# - This ensures that parent class functionality is reused without needing to rewrite the code in the child class.
+
 # Example:
 
 class Animal:
