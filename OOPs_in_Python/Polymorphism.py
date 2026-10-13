@@ -16,7 +16,7 @@
 # 1. compile-time POLYMORPHISM:-
 #       -Method Overloading.
 # 2. Run-time POLYMORPHISM:-
-#       - Method overloading.
+#       - Method overriding.
 #       - Duck Typing.
 #       - Operator Overloading.
 
