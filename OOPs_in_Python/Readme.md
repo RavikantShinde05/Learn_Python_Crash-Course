@@ -14,9 +14,8 @@
 - **`super()`** – Access methods from a parent class.
 - **Magic Methods** – Customize how objects behave.
 
-##  Goal
 
-My goal is to learn OOP concepts step by step, write cleaner and reusable Python code, and build a strong foundation for real-world projects.
+Idea is to learn OOP concepts step by step, write cleaner and reusable Python code, and build a strong foundation for real-world projects.
 
 ##  Requirements
 
